@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inc_primate_tech/static/css/main.f855e6bc.css",
+    "main.js": "/Inc_primate_tech/static/js/main.1f7b9b2f.js",
+    "static/js/488.27b12572.chunk.js": "/Inc_primate_tech/static/js/488.27b12572.chunk.js",
+    "index.html": "/Inc_primate_tech/index.html",
+    "main.f855e6bc.css.map": "/Inc_primate_tech/static/css/main.f855e6bc.css.map",
+    "main.1f7b9b2f.js.map": "/Inc_primate_tech/static/js/main.1f7b9b2f.js.map",
+    "488.27b12572.chunk.js.map": "/Inc_primate_tech/static/js/488.27b12572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1f7b9b2f.js"
+  ]
+}
